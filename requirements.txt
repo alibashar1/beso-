@@ -4,6 +4,6 @@ gunicorn
 requests==2.32.3
 datetime
 pyromod
-asyncio
-threading
-pyrogram
+asyncio==3.4.3
+threading==4.2.0
+pyrogram==2.0.106
