@@ -1,2 +1,10 @@
 flask
 gunicorn
+requests
+random
+time
+datetime
+pyromod
+asyncio
+threading
+pyrogram
