@@ -1,4 +1,5 @@
-
+tgcrypto
+uvloop
 flask
 gunicorn
 requests==2.32.3
