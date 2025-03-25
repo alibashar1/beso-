@@ -1525,5 +1525,15 @@ import uvloop,tgcrypto
 
 
 bot.run()
+
 uvloop.install()
+from flask import Flask
+app = Flask(__name__)
+
+@app.route("/")
+def index():
+    return "Hello Leapcell"
+
+if __name__ == "__main__":
+    app.run(debug=True)
 # strpython.t.me
