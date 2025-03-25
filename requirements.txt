@@ -5,7 +5,7 @@ requests
 random
 time
 datetime
-pip3 install pyromod
+pyromod
 asyncio
 threading
-pip3 install pyrogram
+pyrogram
