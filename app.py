@@ -1521,12 +1521,12 @@ headers = {
     'User-Agent': 'Nicegram/101 CFNetwork/1404.0.5 Darwin/22.3.0',
     'Content-Type': 'application/x-www-form-urlencoded',
 }
-import uvloop,tgcrypto
+
 
 
 bot.run()
 
-uvloop.install()
+
 from flask import Flask
 app = Flask(__name__)
 
