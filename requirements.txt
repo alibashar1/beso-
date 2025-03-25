@@ -1,9 +1,7 @@
 
 flask
 gunicorn
-requests
-random
-time
+requests==2.32.3
 datetime
 pyromod
 asyncio
