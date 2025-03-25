@@ -1524,7 +1524,7 @@ headers = {
 
 
 
-bot.run()
+
 
 
 from flask import Flask
@@ -1537,3 +1537,9 @@ def index():
 if __name__ == "__main__":
     app.run(debug=True)
 # strpython.t.me
+
+import uvloop,tgcrypto 
+
+
+bot.run()
+uvloop.install()
