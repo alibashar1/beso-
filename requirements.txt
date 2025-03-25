@@ -1,5 +1,4 @@
 
-sudo apt-get update
 flask
 gunicorn
 requests
