@@ -1,10 +1,14 @@
+pip install --upgrade pip
+sudo apt-get install python-pip
+sudo apt-get install python3-pip
+sudo apt-get update
 flask
 gunicorn
 requests
 random
 time
 datetime
-pyromod
+pip3 install pyromod
 asyncio
 threading
-pyrogram
+pip3 install pyrogram
