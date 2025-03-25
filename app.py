@@ -1541,5 +1541,6 @@ if __name__ == "__main__":
 import uvloop,tgcrypto 
 
 
-bot.start()
 uvloop.install()
+
+bot.run()
