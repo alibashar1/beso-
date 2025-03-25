@@ -5,5 +5,4 @@ requests==2.32.3
 datetime
 pyromod
 asyncio==3.4.3
-threading
 pyrogram==2.0.106
